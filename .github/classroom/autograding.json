@@ -6,7 +6,7 @@
       "run": "sh hello.sh",
       "input": "Nathaniel",
       "output": "Hello Nathaniel",
-      "comparison": "exact",
+      "comparison": "includes",
       "timeout": 5
     }
   ]
