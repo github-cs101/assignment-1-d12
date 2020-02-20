@@ -1,1 +1,1 @@
-echo "Hello Nathaniel"
+echo -n "Hello Nathaniel"
