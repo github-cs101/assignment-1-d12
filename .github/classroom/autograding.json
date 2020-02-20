@@ -5,7 +5,7 @@
       "setup": "",
       "run": "sh hello.sh",
       "input": "Nathaniel",
-      "output": "Hello Nathaniel",
+      "output": "Hello Nathaniel\n",
       "comparison": "exact",
       "timeout": 5
     }
