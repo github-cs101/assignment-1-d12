@@ -3,8 +3,8 @@
     {
       "name": "Says hello world",
       "setup": "",
-      "run": "sh hello.sh",
-      "input": "Nathaniel",
+      "run": "ruby hello.rb 2>&1",
+      "input": null,
       "output": "Hello Nathaniel",
       "comparison": "exact",
       "timeout": 5
