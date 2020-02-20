@@ -1,0 +1,2 @@
+gets
+puts "Hello Nathaniel"
