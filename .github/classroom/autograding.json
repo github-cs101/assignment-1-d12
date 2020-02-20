@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "name": "Says hello world",
+      "setup": "",
+      "run": "ruby hello.rb",
+      "input": "Nathaniel",
+      "output": "Hello Nathaniel",
+      "comparison": "exact",
+      "timeout": 5
+    }
+  ]
+}
