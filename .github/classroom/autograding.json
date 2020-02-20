@@ -3,7 +3,7 @@
     {
       "name": "Says hello world",
       "setup": "",
-      "run": "ruby hello.rb 2>&1",
+      "run": "ruby hello.rb 2>/dev/null",
       "input": null,
       "output": "Hello Nathaniel",
       "comparison": "exact",
