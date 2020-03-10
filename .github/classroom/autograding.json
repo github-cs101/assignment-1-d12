@@ -3,11 +3,12 @@
     {
       "name": "Says hello world",
       "setup": "",
-      "run": "ruby hello.rb 2>/dev/null",
-      "input": null,
-      "output": "Hello Nathaniel",
-      "comparison": "exact",
-      "timeout": 5
+      "run": "ruby hello.rb",
+      "input": "Nathaniel",
+      "output": "Hello",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
     }
   ]
 }
